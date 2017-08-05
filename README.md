@@ -1,6 +1,4 @@
 # hello-world
 Tutorial
-Roses are red,
-violets are blue.
-I'm so bored now,
-But then so are you
+I can't imagine someone will ever read this, so here goes:
+Bleh, bleh bleh bleh, bleh. Bleh bleh, bleh bleh bleh bleh.
